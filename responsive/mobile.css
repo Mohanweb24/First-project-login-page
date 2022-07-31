@@ -1,0 +1,92 @@
+.logo {
+     font-size:25px;
+     left: 41px;
+     top: 4%;  
+    }
+.header-right-email{
+     position: absolute;
+    top: 12px;
+    right: 150px;
+    font-size: 9px;
+ }
+.header-right-pass{
+    position: absolute;
+    top: 12px;
+    right: 59px;
+    font-size: 9px;    
+}
+.input-email{
+    position: absolute;
+    top: 30px;
+    right: 127px;
+    height: 12px;
+    width: 95px;
+ }
+ .input-pass{
+    position: absolute;
+    top: 30px;
+    right: 22px;
+    height: 12px;
+    width: 95px ;
+ }
+.login-button{
+    position: absolute;
+    top: 55px;
+    right: 188px;
+    height: 16px;
+    font-size: 10px;
+}
+.forget-pass{
+    position: absolute;
+    font-size: 11px;
+    top: 57px;
+    right: 62px;    
+}
+.checkbox{
+    display: none;
+}
+.checkbox-lebel{
+    display: none;
+}
+.left-img-title{
+    display: none;
+}
+.comunity-img{
+    display: none;
+}
+/* .form-title{
+    left: -185px;
+}
+.title2{
+    left: -185px;
+} */
+.form-title{
+   font-size: 21px;
+  }
+.singup-form-right{
+    left: 120px;
+}
+.birthday-reasion{
+    top:26px ;
+    font-size: 10px;
+}
+.create-button{
+  top: 139px;
+  }
+.crt-page{
+    top: 290px;
+    font-size: 10px;
+  }
+  .tram{
+ top: 142px;
+ font-size: 10px;
+}
+.footer-section{
+  right: 30px;
+  }
+  .hr1{
+    display: none;
+  }
+  .last{
+    top: 164px;
+  }
